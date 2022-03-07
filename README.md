@@ -8,7 +8,7 @@
 	</ksiazka>
 	<ksiazka>
 		<autor> Ben Forta </autor>
-		<tag> SQL w mgnieniu oka" </tag>
+		<tag> SQL w mgnieniu oka </tag>
 		<rok> 2016 </rok>
 	</ksiazka>
 	<ksiazka> 
